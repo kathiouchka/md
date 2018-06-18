@@ -31,9 +31,11 @@
 <li>Billets allez retour pour laura et PA</li>
 <li>Airbnb pour PA Laura et moi + nouveau AIRBNB 20 21</li>
 </ol>
-<p><em>DONE</em> :<br>
-6. Billets Paris -&gt; Massanes | Massanes -&gt; Paris<br>
-7. Copier issues from Github -&gt; Gitlab.</p>
+<p><em>DONE</em> :</p>
+<ol>
+<li>Billets Paris -&gt; Massanes | Massanes -&gt; Paris</li>
+<li>Copier issues from Github -&gt; Gitlab.</li>
+</ol>
 <h3 id="fabien-">Fabien :</h3>
 <p><em>TODO</em> :</p>
 <ol>
@@ -42,8 +44,10 @@
 <li><a href="https://git.iostud.io/makernet/makernet-engine/issues/104">Fabnode open hours update</a></li>
 <li>Creer PR qui closent les issues faites (3/4 done) 19.06/2018</li>
 </ol>
-<p><em>DONE</em> :<br>
-5. Modal des FabNobe.</p>
+<p><em>DONE</em> :</p>
+<ol>
+<li>Modal des FabNobe.</li>
+</ol>
 <h3 id="pa-">PA :</h3>
 <p><em>TODO</em> :</p>
 <ol>
@@ -52,8 +56,10 @@
 <li>Reprendre le controle de gitlab</li>
 <li>Wording</li>
 </ol>
-<p><em>DONE</em> :<br>
-5. Recruter une bizdev</p>
+<p><em>DONE</em> :</p>
+<ol>
+<li>Recruter une bizdev</li>
+</ol>
 <h3 id="divers-">Divers :</h3>
 <p>Clear Mkrtnet avant Massanes, comment ca on fini sur les reseaux (cc Niska)</p>
 
